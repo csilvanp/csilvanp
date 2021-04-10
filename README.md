@@ -44,11 +44,11 @@
  <h3 align="center">⭐  Statistics and Languages</h3>
 
  <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=csilvanp&count_private=true&show_icons=true&theme=buefy" alt="csilvanp" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csilvanp&&langs_count=8&layout=compact&theme=buefy" alt="csilvanp" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=csilvanp&count_private=true&show_icons=true&theme=dracula" alt="csilvanp" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csilvanp&&langs_count=8&layout=compact&theme=dracula" alt="csilvanp" height="165" />
 </p>
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=csilvanp&theme=flat&row=1" alt="csilvanp" />
+ <img src="https://github-profile-trophy.vercel.app/?username=csilvanp&theme=dracula&row=1" alt="csilvanp" />
 </p><br>
 
 <h3 align="center"> ✌️ Contact Me </h3>
