@@ -1,3 +1,4 @@
+<img alt="Coding" src="https://user-images.githubusercontent.com/65902368/114281937-9d5d6100-9a17-11eb-813d-a05faec2b389.gif" align="right" height="500"/> <br/>
 <p align="right">
 <h1>Hello! I'm Cauã Silva</h1>
 <h3> Front-end Developer & Systems Development Student</h3>
@@ -13,7 +14,7 @@
    - 🤝  Contribuite in open-source projects
    - 📈  Improve UI/UX skills
 <p/>
-<img alt="Coding" src="https://user-images.githubusercontent.com/65902368/114281937-9d5d6100-9a17-11eb-813d-a05faec2b389.gif" align="right" height="200"/> <br/>
+
 
 ### 📚  Stack I Work With
 
