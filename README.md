@@ -48,7 +48,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csilvanp&&langs_count=8&layout=compact&theme=dracula" alt="csilvanp" height="165" />
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=csilvanp&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20" height ="165"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=csilvanp&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
   <br/>
 </p>
 <p align="center">
