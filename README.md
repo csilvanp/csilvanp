@@ -57,7 +57,7 @@
 [<img src="https://readme-spotify-status-sooty.vercel.app/api/run-spotify-status" alt="Spotify profile" width="400" align="right"/>](https://open.spotify.com/user/wl43rnhctll5qwr8t91txjejd)
 
 <p align="left">
-   <h3> ✌️ Contact Me </h3>
+   <h3 align="center"> ✌️ Contact Me </h3>
    <a href="https://www.linkedin.com/in/cauã-v-silva/"><img src="https://img.shields.io/badge/-Cauã%20Silva-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
    <a href="mailto:csilvanp@gmail.com"><img src="https://img.shields.io/badge/-csilvanp@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a><br/>
    <a href="https://instagram.com/hyggesilva"><img src="https://img.shields.io/badge/-@hyggesilva-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
