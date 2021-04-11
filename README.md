@@ -54,7 +54,7 @@
 
 
    
-[<img src="https://readme-spotify-status-sooty.vercel.app/api/run-spotify-status" alt="Spotify profile" width="500" align="right"/>](https://open.spotify.com/user/wl43rnhctll5qwr8t91txjejd)
+[<img src="https://readme-spotify-status-sooty.vercel.app/api/run-spotify-status" alt="Spotify profile" width="400" align="right"/>](https://open.spotify.com/user/wl43rnhctll5qwr8t91txjejd)
 
 <p align="left">
    <h3 align="left"> ✌️ Contact Me </h3>
