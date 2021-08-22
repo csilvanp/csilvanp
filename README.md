@@ -6,10 +6,10 @@
 
 
 ### 👨‍🦱  About me
-- ⏳  I'm 16 years old
+- ⏳  I'm 17 years old
 - 💙  My preferred language is Javascript (with TypeScript too)
 - 🎮  My favorite game is [osu!](https://osu.ppy.sh/users/21558665)
-- 🌱  I’m currently learning *NextJS*
+- 🌱  I’m currently learning *ReactJS and TypeScript*
 
 ### 📊  2021 Goals:
    - 📂  Expand my portfolio
@@ -26,8 +26,6 @@
   <img src="https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white" height="25"/>
   <img src ="https://img.shields.io/badge/typescript-007ACC?&logo=TypeScript&style=for-the-badge&logoColor=white" height ="25"/>
   <img src="https://img.shields.io/badge/react-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
-  </p>
-<p align="left">
   <img src ="https://img.shields.io/badge/node.js-87C111?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
