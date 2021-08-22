@@ -2,7 +2,7 @@
 <p align="left">
 <h1 align ="center">Hello! I'm Cauã Silva</h1>
 <img alt="Coding" src="https://user-images.githubusercontent.com/65902368/114281937-9d5d6100-9a17-11eb-813d-a05faec2b389.gif" align="right" height="450" align="right"/>
-<h3> Front-end Developer & Systems Development Student</h3>
+<h3> Front-end Developer & Systems Development Technician</h3>
 
 
 ### 👨‍🦱  About me
@@ -10,6 +10,7 @@
 - 💙  My preferred language is Javascript (with TypeScript too)
 - 🎮  My favorite game is [osu!](https://osu.ppy.sh/users/21558665)
 - 🌱  I’m currently learning *ReactJS and TypeScript*
+- 🎓 Studying Computer Science in [Universidade Federal do Pará](https://www.computacao.ufpa.br)
 
 ### 📊  2021 Goals:
    - 📂  Expand my portfolio
