@@ -1,6 +1,6 @@
 <p align="center">
    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=%23FDB927&size=26&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Cau%C3%A3+Silva!;Front-End+developer;Computer+Science+student)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=%23FDB927&size=26&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Cau%C3%A3+Silva!;Front-End+developer;Computer+Science+student"/>
    
 </p>
 
@@ -13,17 +13,6 @@
    <a href="https://www.facebook.com/profile.php?id=100028612230071&viewas=100000686899395"><img src="https://img.shields.io/badge/-Cauã%20Silva-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </p>
 <hr/>
-
-### 👨‍🦱  About me
-- ⏳  I'm 17 years old
-- 💙  My preferred language is Javascript (with TypeScript too)
-- 🎮  My favorite game is [osu!](https://osu.ppy.sh/users/21558665)
-- 🌱  I’m currently learning *ReactJS and TypeScript*
-- 🎓 Studying Computer Science in [Universidade Federal do Pará](https://www.computacao.ufpa.br)
-
-### 📊  2022 Goals:
-   - 📈 Improve my coding skills
-   - 💻 Learn some new languages
 
 <details>
   <summary><b>Favorite techs & tools</b></summary>
