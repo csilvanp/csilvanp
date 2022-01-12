@@ -97,7 +97,7 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=csilvanp&count_private=true&show_icons=true&theme=dracula" alt="csilvanp" width="400"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csilvanp&&langs_count=8&layout=compact&theme=dracula" alt="csilvanp" height="158"/>   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csilvanp&&langs_count=8&layout=compact&theme=dracula" alt="csilvanp" height="157"/>   
 </p>
 <hr/>
 <h3 align="center">My setup</h3>
