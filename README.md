@@ -4,8 +4,6 @@
    
 </p>
 
-
-
 <p align="center">
    <a href="https://www.linkedin.com/in/cauã-v-silva/"><img src="https://img.shields.io/badge/-Cauã%20Silva-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
    <a href="mailto:csilvanp@gmail.com"><img src="https://img.shields.io/badge/-csilvanp@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -14,9 +12,8 @@
 </p>
 <hr/>
 
-<details>
-  <summary><b>Favorite techs & tools</b></summary>
-  <table>
+<h3 align="center">Favorite techs & tools</h3>
+  <table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -130,26 +127,16 @@
     </td>
   </tr>
 </table>
-</details>
+<br/>
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-  <br />
+<h3 align="center">Github Stats & Streak</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=csilvanp&count_private=true&show_icons=true&theme=dracula" alt="csilvanp" width="400"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csilvanp&&langs_count=8&layout=compact&theme=dracula" alt="csilvanp" height="165" />
-</details>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csilvanp&&langs_count=8&layout=compact&theme=dracula" alt="csilvanp" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csilvanp&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="160"/>
 
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csilvanp&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
-</details>
- 
-<details>	
-  <br />
-  <summary><b>⚙️ My setup</b></summary>
-  
+<h3 align="center">My setup</h3>
+
   ```js
   const setup = {
     hardware: {
@@ -166,10 +153,7 @@
     }
   }
   ```
-
-</details>
-
-
+  
 <br/>
 
 <h3 align="center">🎵 Listening to: 🎵</h3>
