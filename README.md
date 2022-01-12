@@ -19,55 +19,55 @@
       <a href="#macropower-tech">
         <img src="./img/csharp-original.svg" width="48" height="48" alt="Javascript" />
       </a>
-      <br>Javascript
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Python
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>Go
+      <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
       </a>
-      <br>Jsonnet
+      <br>Typescript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>JavaScript
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="./img/react-original.svg" width="48" height="48" alt="React" />
       </a>
-      <br>React
+      <br>Sass
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Bootstrap
+      <br>Laravel
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
-      <br>Sass
+      <br>PHP
     </td>
   </tr>
   <tr>
@@ -81,25 +81,25 @@
       <a href="#macropower-tech" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br>Kubernetes
+      <br>ZSH
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
-      <br>Debian
+      <br>Windows
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
       </a>
-      <br>RHEL
+      <br>Opera GX
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
       </a>
-      <br>Powershell
+      <br>Git
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
@@ -111,36 +111,31 @@
       <a href="#macropower-tech" >
         <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
       </a>
-      <br>Grafana
+      <br>Discord
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
       </a>
-      <br>Prometheus
+      <br>VS Code
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
       </a>
-      <br>Thanos
+      <br>Wordpress
     </td>
   </tr>
 </table>
 <hr/>
-<br/>
 
 <h3 align="center">Github Stats & Streak</h3>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=csilvanp&count_private=true&show_icons=true&theme=dracula" alt="csilvanp" width="400"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csilvanp&&langs_count=8&layout=compact&theme=dracula" alt="csilvanp" height="158"/>   
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=csilvanp&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="160" align="center"/>
 </p>
-
-
-
-  <br />
+<hr/>
 <h3 align="center">My setup</h3>
 
   ```js
@@ -160,8 +155,7 @@
   }
   ```
   
-<hr/><br/>
-
+<hr/>
 <h3 align="center">🎵 Listening to: 🎵</h3>
 <p align="center">  
    <img src="https://readme-spotify-status-sooty.vercel.app/api/run-spotify-status" alt="Spotify profile" width="400"/>
