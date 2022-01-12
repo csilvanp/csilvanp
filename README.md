@@ -181,9 +181,12 @@
 </details>
 
 
-<p align="center">
-   <h4>Listening to: </h4>
+<br/>
 
-   [<img src="https://readme-spotify-status-sooty.vercel.app/api/run-spotify-status" alt="Spotify profile" width="400" align="right"/>](https://open.spotify.com/user/wl43rnhctll5qwr8t91txjejd)
-</p>
+<h3 align="center">🎵 Listening to: 🎵</h3>
+<p align="center">  
+   <img src="https://readme-spotify-status-sooty.vercel.app/api/run-spotify-status" alt="Spotify profile" width="400"/>
+<p/>
+
+
 
