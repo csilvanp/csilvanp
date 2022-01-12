@@ -127,12 +127,18 @@
     </td>
   </tr>
 </table>
+<hr/>
 <br/>
 
 <h3 align="center">Github Stats & Streak</h3>
+
+<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=csilvanp&count_private=true&show_icons=true&theme=dracula" alt="csilvanp" width="400"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csilvanp&&langs_count=8&layout=compact&theme=dracula" alt="csilvanp" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csilvanp&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csilvanp&&langs_count=8&layout=compact&theme=dracula" alt="csilvanp" height="158"/>   
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=csilvanp&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="160" align="center"/>
+</p>
+
+
 
   <br />
 <h3 align="center">My setup</h3>
@@ -154,7 +160,7 @@
   }
   ```
   
-<br/>
+<hr/><br/>
 
 <h3 align="center">🎵 Listening to: 🎵</h3>
 <p align="center">  
