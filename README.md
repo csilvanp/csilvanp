@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/cauã-v-silva/"><img src="https://img.shields.io/badge/-Cauã%20Silva-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/cauavsilva/"><img src="https://img.shields.io/badge/-Cauã%20Silva-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
    <a href="mailto:csilvanp@gmail.com"><img src="https://img.shields.io/badge/-csilvanp@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
    <a href="https://instagram.com/cauavsilva"><img src="https://img.shields.io/badge/-@cauavsilva-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
    <a href="https://www.facebook.com/profile.php?id=100028612230071&viewas=100000686899395"><img src="https://img.shields.io/badge/-Cauã%20Silva-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
